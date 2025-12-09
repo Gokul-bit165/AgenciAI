@@ -1,0 +1,6 @@
+provider_id,full_name,registration_number,specialization,city,npi,website
+1,Dr. Rajesh Koothrappali,TNMC/12345,Cardiologist,Chennai,,https://google.com
+2,Dr. Valid Practitioner,UPMC/98765,General Physician,Delhi,,
+3,Dr. Alice Smith,,Dermatologist,New York,1234567890,https://example.com
+4,Dr. Invalid Format,BAD-ID-99,,Mumbai,,
+5,Dr. John Doe,,Cardiologist,Chicago,9876543210,

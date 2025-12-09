@@ -1,0 +1,201 @@
+provider_id,name,specialty,phone,email,address,state,license_id,npi_number,facility_name,validation_confidence
+1,Michael Gupta,Neurology,+91-7787846414,michael.gupta@example.com,"107 Main Rd, Lucknow, India",DL,LIC-64886,NPI-5964958674,MedStar Center,60
+2,Emily Khan,Pediatrics,+91-7613608295,emily.khan@example.com,"152 Park Ave, Ahmedabad, India",GJ,LIC-74820,NPI-8395928407,LifeLine Hospital,79
+3,Rohan Khan,Cardiology,+91-8306710475,rohan.khan@example.com,"58 2nd St, Lucknow, India",RJ,LIC-35658,NPI-8667272366,HealthCare Plus,93
+4,Neha Mehta,Orthopedics,+91-9609385266,neha.mehta@example.com,"135 Main Rd, Mumbai, India",KA,LIC-90038,NPI-9370399619,City Clinic,63
+5,Sneha Mehta,Dermatology,+91-7419498548,sneha.mehta@example.com,"130 Park Ave, Chennai, India",GJ,LIC-58555,NPI-4578544903,MedStar Center,84
+6,Amit Gupta,Dermatology,+91-9845511527,amit.gupta@example.com,"132 2nd St, Ahmedabad, India",RJ,LIC-87189,NPI-7643070057,LifeLine Hospital,78
+7,Rohan Iyer,Pediatrics,+91-8697157321,rohan.iyer@example.com,"190 2nd St, Jaipur, India",WB,LIC-21534,NPI-5128202429,LifeLine Hospital,70
+8,Rohan Khan,Psychiatry,+91-8532243865,rohan.khan@example.com,"188 Main Rd, Mumbai, India",WB,LIC-48044,NPI-1067157848,MedStar Center,58
+9,Amit Wilson,Psychiatry,+91-7060472382,amit.wilson@example.com,"139 Park Ave, Mumbai, India",RJ,LIC-43159,NPI-3602578298,City Clinic,91
+10,Sneha Mehta,Pediatrics,+91-9677045063,sneha.mehta@example.com,"12 2nd St, Mumbai, India",TN,LIC-99135,NPI-6691619031,City Clinic,84
+11,Emily Brown,Orthopedics,+91-9410522146,emily.brown@example.com,"193 Park Ave, Lucknow, India",KA,LIC-18110,NPI-8941024386,City Clinic,54
+12,Michael Davis,Orthopedics,+91-9245120392,michael.davis@example.com,"15 2nd St, Bangalore, India",RJ,LIC-33419,NPI-1866377394,MedStar Center,81
+13,Amit Gupta,Neurology,+91-9184294495,amit.gupta@example.com,"132 2nd St, Lucknow, India",TN,LIC-81910,NPI-3318599822,MedStar Center,78
+14,Michael Reddy,ENT,+91-9681580201,michael.reddy@example.com,"45 2nd St, Mumbai, India",MH,LIC-12693,NPI-7611424586,LifeLine Hospital,77
+15,Michael Sharma,Cardiology,+91-7978974072,michael.sharma@example.com,"27 2nd St, Mumbai, India",DL,LIC-65016,NPI-9619793766,HealthCare Plus,57
+16,Raj Khan,Cardiology,+91-7514817842,raj.khan@example.com,"172 Park Ave, Delhi, India",KA,LIC-71087,NPI-2734463155,City Clinic,98
+17,Neha Davis,Dermatology,+91-8292262512,neha.davis@example.com,"101 Main Rd, Kolkata, India",UP,LIC-36736,NPI-7453957249,LifeLine Hospital,72
+18,Amit Sharma,Orthopedics,+91-9923607677,amit.sharma@example.com,"130 Main Rd, Chennai, India",WB,LIC-36309,NPI-7007905237,MedStar Center,97
+19,Amit Mehta,Pediatrics,+91-9182697146,amit.mehta@example.com,"70 Main Rd, Delhi, India",TN,LIC-59811,NPI-7494390210,MedStar Center,68
+20,Michael Gupta,Cardiology,+91-9967554976,michael.gupta@example.com,"168 Park Ave, Bangalore, India",KA,LIC-21111,NPI-3902066954,LifeLine Hospital,74
+21,Michael Iyer,Orthopedics,+91-7981614854,michael.iyer@example.com,"144 2nd St, Kolkata, India",UP,LIC-26371,NPI-9573844352,LifeLine Hospital,61
+22,John Davis,Cardiology,+91-8197743336,john.davis@example.com,"99 Park Ave, Kolkata, India",WB,LIC-61407,NPI-8168249959,LifeLine Hospital,84
+23,Raj Reddy,Cardiology,+91-7021739356,raj.reddy@example.com,"146 2nd St, Bangalore, India",TN,LIC-87505,NPI-7220934306,LifeLine Hospital,90
+24,Amit Gupta,Cardiology,+91-9121257357,amit.gupta@example.com,"21 Park Ave, Delhi, India",GJ,LIC-96416,NPI-6434002806,HealthCare Plus,95
+25,Sarah Brown,Neurology,+91-9090541618,sarah.brown@example.com,"182 Park Ave, Delhi, India",RJ,LIC-59377,NPI-3158809885,City Clinic,77
+26,Amit Khan,Pediatrics,+91-9144019247,amit.khan@example.com,"147 Park Ave, Kolkata, India",DL,LIC-83744,NPI-9392059356,HealthCare Plus,55
+27,Raj Khan,Psychiatry,+91-8420561756,raj.khan@example.com,"46 Main Rd, Jaipur, India",WB,LIC-76235,NPI-1323609715,MedStar Center,70
+28,Michael Sharma,Psychiatry,+91-9084261186,michael.sharma@example.com,"128 2nd St, Mumbai, India",WB,LIC-42745,NPI-9289359170,LifeLine Hospital,95
+29,Rohan Brown,General Medicine,+91-7601656257,rohan.brown@example.com,"127 Park Ave, Bangalore, India",DL,LIC-55017,NPI-4645008999,City Clinic,58
+30,Sarah Davis,Neurology,+91-8273501353,sarah.davis@example.com,"26 Park Ave, Bangalore, India",DL,LIC-39592,NPI-8712870799,HealthCare Plus,61
+31,Michael Patel,Dermatology,+91-8883232031,michael.patel@example.com,"191 2nd St, Delhi, India",MH,LIC-62921,NPI-4603191957,HealthCare Plus,71
+32,Neha Iyer,ENT,+91-8302515470,neha.iyer@example.com,"54 Park Ave, Chennai, India",UP,LIC-90135,NPI-2166267963,LifeLine Hospital,93
+33,Michael Gupta,ENT,+91-7221971308,michael.gupta@example.com,"116 2nd St, Jaipur, India",GJ,LIC-90738,NPI-5164129137,LifeLine Hospital,91
+34,Priya Sharma,Psychiatry,+91-8163215678,priya.sharma@example.com,"19 2nd St, Jaipur, India",RJ,LIC-35945,NPI-1791707097,City Clinic,72
+35,Raj Khan,Cardiology,+91-7744293433,raj.khan@example.com,"122 Main Rd, Jaipur, India",WB,LIC-56175,NPI-5698150005,LifeLine Hospital,74
+36,John Sharma,Psychiatry,+91-9219193532,john.sharma@example.com,"192 Park Ave, Lucknow, India",GJ,LIC-69638,NPI-6823858319,MedStar Center,86
+37,Raj Khan,General Medicine,+91-7174928880,raj.khan@example.com,"94 2nd St, Ahmedabad, India",KA,LIC-70403,NPI-3036561099,LifeLine Hospital,75
+38,John Davis,Pediatrics,+91-7743896352,john.davis@example.com,"101 Park Ave, Bangalore, India",TN,LIC-33049,NPI-8022673732,LifeLine Hospital,83
+39,Sneha Iyer,Orthopedics,+91-9160953785,sneha.iyer@example.com,"96 Main Rd, Kolkata, India",WB,LIC-19540,NPI-1699798019,LifeLine Hospital,73
+40,Michael Patel,Cardiology,+91-9515886975,michael.patel@example.com,"160 Park Ave, Chennai, India",UP,LIC-28071,NPI-2968181152,City Clinic,92
+41,Priya Sharma,Cardiology,+91-9798105767,priya.sharma@example.com,"74 Park Ave, Chennai, India",KA,LIC-30764,NPI-1921653259,MedStar Center,95
+42,Priya Patel,Orthopedics,+91-8445489366,priya.patel@example.com,"81 2nd St, Kolkata, India",DL,LIC-98668,NPI-8222475721,HealthCare Plus,83
+43,Raj Davis,Pediatrics,+91-9975941433,raj.davis@example.com,"114 Main Rd, Delhi, India",KA,LIC-10412,NPI-4450924308,City Clinic,85
+44,John Mehta,Psychiatry,+91-9473577186,john.mehta@example.com,"177 Park Ave, Kolkata, India",WB,LIC-27955,NPI-6368779760,MedStar Center,81
+45,Michael Khan,Pediatrics,+91-8842515312,michael.khan@example.com,"183 Main Rd, Jaipur, India",GJ,LIC-78450,NPI-2622333213,City Clinic,98
+46,Neha Mehta,ENT,+91-8278333324,neha.mehta@example.com,"187 Park Ave, Mumbai, India",RJ,LIC-89459,NPI-4638452114,LifeLine Hospital,58
+47,Neha Reddy,Dermatology,+91-9713720174,neha.reddy@example.com,"144 Main Rd, Lucknow, India",WB,LIC-99112,NPI-4231423971,City Clinic,72
+48,Raj Davis,Neurology,+91-9123519017,raj.davis@example.com,"186 Park Ave, Ahmedabad, India",RJ,LIC-19348,NPI-2507168490,MedStar Center,67
+49,Raj Iyer,Dermatology,+91-9655226347,raj.iyer@example.com,"145 Main Rd, Ahmedabad, India",MH,LIC-11542,NPI-8305606796,LifeLine Hospital,91
+50,Rohan Iyer,Dermatology,+91-7349390340,rohan.iyer@example.com,"29 Main Rd, Ahmedabad, India",RJ,LIC-36962,NPI-2591895872,HealthCare Plus,66
+51,Michael Mehta,Neurology,+91-8504175907,michael.mehta@example.com,"70 Park Ave, Delhi, India",GJ,LIC-82124,NPI-9187729753,MedStar Center,88
+52,Priya Patel,Pediatrics,+91-9454457981,priya.patel@example.com,"58 Main Rd, Jaipur, India",MH,LIC-52344,NPI-2610056894,LifeLine Hospital,98
+53,Emily Sharma,ENT,+91-8874048116,emily.sharma@example.com,"134 2nd St, Chennai, India",GJ,LIC-32700,NPI-2385927470,City Clinic,65
+54,John Khan,Pediatrics,+91-9378786018,john.khan@example.com,"147 Main Rd, Bangalore, India",RJ,LIC-81726,NPI-1931188016,HealthCare Plus,64
+55,Amit Khan,ENT,+91-9509610869,amit.khan@example.com,"3 Park Ave, Mumbai, India",TN,LIC-17114,NPI-6962567303,HealthCare Plus,99
+56,John Mehta,Pediatrics,+91-8946654618,john.mehta@example.com,"191 Main Rd, Mumbai, India",WB,LIC-88752,NPI-4495222995,City Clinic,77
+57,Priya Brown,Dermatology,+91-8789451122,priya.brown@example.com,"197 Park Ave, Mumbai, India",RJ,LIC-75545,NPI-7664019194,City Clinic,54
+58,Emily Sharma,ENT,+91-9063173777,emily.sharma@example.com,"177 Park Ave, Lucknow, India",UP,LIC-33833,NPI-8856200506,MedStar Center,98
+59,Amit Patel,Cardiology,+91-8781636194,amit.patel@example.com,"129 Main Rd, Kolkata, India",RJ,LIC-57926,NPI-8265858011,City Clinic,54
+60,John Brown,Orthopedics,+91-9385561012,john.brown@example.com,"23 Main Rd, Lucknow, India",UP,LIC-20916,NPI-8944175049,MedStar Center,66
+61,Raj Sharma,Orthopedics,+91-8179964076,raj.sharma@example.com,"4 2nd St, Mumbai, India",RJ,LIC-47744,NPI-6833264475,MedStar Center,57
+62,Sneha Iyer,Dermatology,+91-9045309365,sneha.iyer@example.com,"118 Park Ave, Delhi, India",GJ,LIC-42049,NPI-9452382955,City Clinic,79
+63,Raj Sharma,Psychiatry,+91-9061781758,raj.sharma@example.com,"47 Park Ave, Jaipur, India",DL,LIC-11252,NPI-3746036109,HealthCare Plus,60
+64,Michael Brown,Psychiatry,+91-7062468859,michael.brown@example.com,"38 2nd St, Bangalore, India",TN,LIC-83553,NPI-7677882190,MedStar Center,83
+65,Raj Brown,Cardiology,+91-8703138299,raj.brown@example.com,"30 Park Ave, Bangalore, India",WB,LIC-53088,NPI-4420820252,LifeLine Hospital,59
+66,Amit Iyer,Cardiology,+91-8109151227,amit.iyer@example.com,"84 Main Rd, Bangalore, India",DL,LIC-83477,NPI-2492129217,City Clinic,92
+67,Priya Mehta,General Medicine,+91-7549952694,priya.mehta@example.com,"80 Park Ave, Delhi, India",DL,LIC-21637,NPI-4851676866,LifeLine Hospital,52
+68,Rohan Iyer,Orthopedics,+91-7175529362,rohan.iyer@example.com,"21 Main Rd, Bangalore, India",UP,LIC-46668,NPI-5675941780,HealthCare Plus,50
+69,Raj Iyer,ENT,+91-8564527137,raj.iyer@example.com,"177 2nd St, Bangalore, India",MH,LIC-91818,NPI-1396385049,City Clinic,96
+70,Sarah Wilson,ENT,+91-7674213994,sarah.wilson@example.com,"63 Main Rd, Mumbai, India",UP,LIC-74291,NPI-1362997767,City Clinic,84
+71,Neha Wilson,ENT,+91-8014112781,neha.wilson@example.com,"28 Park Ave, Ahmedabad, India",DL,LIC-54247,NPI-8505330540,HealthCare Plus,63
+72,Emily Reddy,General Medicine,+91-9951353346,emily.reddy@example.com,"111 Park Ave, Ahmedabad, India",KA,LIC-65658,NPI-9720811515,City Clinic,67
+73,Sarah Reddy,Orthopedics,+91-8041402894,sarah.reddy@example.com,"192 Main Rd, Jaipur, India",RJ,LIC-20267,NPI-7717178918,City Clinic,66
+74,Sarah Iyer,ENT,+91-7514374443,sarah.iyer@example.com,"25 Main Rd, Lucknow, India",RJ,LIC-16168,NPI-3059789457,MedStar Center,85
+75,Sarah Patel,General Medicine,+91-9519150503,sarah.patel@example.com,"113 Park Ave, Bangalore, India",DL,LIC-70004,NPI-9158923443,HealthCare Plus,83
+76,Emily Brown,Neurology,+91-8018881312,emily.brown@example.com,"181 2nd St, Lucknow, India",RJ,LIC-11605,NPI-9967409085,HealthCare Plus,79
+77,Emily Davis,Cardiology,+91-7344601334,emily.davis@example.com,"131 Park Ave, Jaipur, India",TN,LIC-14324,NPI-7768861651,LifeLine Hospital,60
+78,Sarah Brown,Cardiology,+91-9107749981,sarah.brown@example.com,"179 2nd St, Mumbai, India",DL,LIC-63441,NPI-9452470169,HealthCare Plus,53
+79,Neha Sharma,Pediatrics,+91-8041141872,neha.sharma@example.com,"140 Park Ave, Mumbai, India",UP,LIC-88477,NPI-3173699965,MedStar Center,85
+80,Priya Sharma,ENT,+91-8445704369,priya.sharma@example.com,"10 Main Rd, Jaipur, India",MH,LIC-19865,NPI-3940212391,HealthCare Plus,69
+81,John Mehta,Cardiology,+91-7501205768,john.mehta@example.com,"143 2nd St, Jaipur, India",GJ,LIC-46258,NPI-5753237086,City Clinic,54
+82,Rohan Khan,Psychiatry,+91-7880476065,rohan.khan@example.com,"76 Park Ave, Delhi, India",UP,LIC-15415,NPI-1600317767,MedStar Center,90
+83,Priya Khan,Neurology,+91-8012288338,priya.khan@example.com,"123 2nd St, Bangalore, India",KA,LIC-30611,NPI-4767547628,HealthCare Plus,74
+84,Emily Wilson,General Medicine,+91-8618963981,emily.wilson@example.com,"32 Park Ave, Lucknow, India",MH,LIC-82101,NPI-4210957846,MedStar Center,64
+85,Raj Sharma,Cardiology,+91-8681402862,raj.sharma@example.com,"194 2nd St, Lucknow, India",DL,LIC-46455,NPI-9331515525,MedStar Center,56
+86,Emily Iyer,Psychiatry,+91-7716103155,emily.iyer@example.com,"15 Park Ave, Lucknow, India",DL,LIC-15408,NPI-8526514104,City Clinic,86
+87,Michael Sharma,ENT,+91-7878512323,michael.sharma@example.com,"86 2nd St, Bangalore, India",RJ,LIC-53872,NPI-8822240549,City Clinic,80
+88,Neha Wilson,Pediatrics,+91-8706335927,neha.wilson@example.com,"15 Main Rd, Kolkata, India",UP,LIC-74772,NPI-1984627246,LifeLine Hospital,61
+89,Rohan Reddy,Orthopedics,+91-9428839843,rohan.reddy@example.com,"36 2nd St, Delhi, India",WB,LIC-81315,NPI-6766097767,HealthCare Plus,55
+90,Michael Iyer,ENT,+91-9641191274,michael.iyer@example.com,"140 2nd St, Lucknow, India",RJ,LIC-83319,NPI-5727876817,City Clinic,82
+91,Emily Gupta,Psychiatry,+91-9992092483,emily.gupta@example.com,"133 Main Rd, Kolkata, India",KA,LIC-10126,NPI-8607446512,LifeLine Hospital,80
+92,Raj Brown,Orthopedics,+91-7447737293,raj.brown@example.com,"40 Main Rd, Ahmedabad, India",GJ,LIC-57882,NPI-6308175972,City Clinic,75
+93,Neha Brown,General Medicine,+91-8426557952,neha.brown@example.com,"63 2nd St, Jaipur, India",KA,LIC-49282,NPI-2629105582,City Clinic,58
+94,Neha Mehta,Neurology,+91-9592964249,neha.mehta@example.com,"169 Park Ave, Jaipur, India",KA,LIC-73731,NPI-4708782169,MedStar Center,87
+95,Michael Patel,Orthopedics,+91-8942261264,michael.patel@example.com,"128 Park Ave, Delhi, India",TN,LIC-80507,NPI-6052543639,City Clinic,56
+96,Sarah Khan,Psychiatry,+91-8337767072,sarah.khan@example.com,"177 Main Rd, Jaipur, India",MH,LIC-14757,NPI-5351207579,HealthCare Plus,70
+97,Michael Sharma,Pediatrics,+91-8971342696,michael.sharma@example.com,"177 2nd St, Ahmedabad, India",MH,LIC-31566,NPI-1792261991,City Clinic,56
+98,Michael Reddy,Orthopedics,+91-8500605757,michael.reddy@example.com,"32 2nd St, Lucknow, India",WB,LIC-37952,NPI-2622320604,HealthCare Plus,65
+99,Priya Patel,Cardiology,+91-8946860718,priya.patel@example.com,"194 2nd St, Chennai, India",MH,LIC-48000,NPI-7429617373,HealthCare Plus,53
+100,Emily Davis,General Medicine,+91-8603351327,emily.davis@example.com,"10 2nd St, Delhi, India",RJ,LIC-85629,NPI-7050467195,City Clinic,72
+101,Rohan Davis,Neurology,+91-8752280071,rohan.davis@example.com,"65 Main Rd, Jaipur, India",UP,LIC-65106,NPI-3555715911,HealthCare Plus,96
+102,Priya Reddy,Cardiology,+91-9391101019,priya.reddy@example.com,"8 2nd St, Delhi, India",TN,LIC-44911,NPI-8860734442,LifeLine Hospital,53
+103,John Brown,Neurology,+91-8745441677,john.brown@example.com,"55 2nd St, Jaipur, India",TN,LIC-14425,NPI-4764298642,LifeLine Hospital,78
+104,Rohan Patel,Cardiology,+91-9683329220,rohan.patel@example.com,"148 Park Ave, Bangalore, India",TN,LIC-25358,NPI-6854294722,MedStar Center,61
+105,John Khan,ENT,+91-9371024605,john.khan@example.com,"137 2nd St, Lucknow, India",MH,LIC-17083,NPI-8574629205,LifeLine Hospital,73
+106,Sneha Wilson,Orthopedics,+91-9023210710,sneha.wilson@example.com,"128 Main Rd, Bangalore, India",KA,LIC-45954,NPI-2153960461,City Clinic,89
+107,Raj Davis,Cardiology,+91-7598529781,raj.davis@example.com,"22 Park Ave, Ahmedabad, India",RJ,LIC-65961,NPI-9162895900,City Clinic,83
+108,John Brown,Dermatology,+91-9274879615,john.brown@example.com,"85 2nd St, Chennai, India",MH,LIC-67384,NPI-5583483425,City Clinic,86
+109,Sarah Iyer,Pediatrics,+91-7886572630,sarah.iyer@example.com,"117 2nd St, Ahmedabad, India",KA,LIC-71396,NPI-7874167563,City Clinic,56
+110,Amit Iyer,Neurology,+91-8645567451,amit.iyer@example.com,"190 2nd St, Ahmedabad, India",UP,LIC-96145,NPI-9977928884,LifeLine Hospital,75
+111,John Wilson,Orthopedics,+91-8527602687,john.wilson@example.com,"164 Main Rd, Delhi, India",WB,LIC-21046,NPI-7339588193,MedStar Center,96
+112,Sarah Brown,Neurology,+91-9077711671,sarah.brown@example.com,"33 2nd St, Chennai, India",KA,LIC-84478,NPI-9397676026,City Clinic,92
+113,Raj Iyer,Dermatology,+91-7457836020,raj.iyer@example.com,"73 Main Rd, Kolkata, India",WB,LIC-47904,NPI-3128119000,City Clinic,92
+114,Sneha Mehta,General Medicine,+91-7326131490,sneha.mehta@example.com,"131 2nd St, Lucknow, India",DL,LIC-96123,NPI-5317532261,HealthCare Plus,61
+115,John Sharma,Neurology,+91-9965933624,john.sharma@example.com,"55 Main Rd, Jaipur, India",WB,LIC-30491,NPI-9410279503,LifeLine Hospital,68
+116,John Sharma,General Medicine,+91-9973305205,john.sharma@example.com,"198 Main Rd, Bangalore, India",WB,LIC-72552,NPI-5054703980,HealthCare Plus,96
+117,Sneha Davis,Cardiology,+91-7775565206,sneha.davis@example.com,"26 Main Rd, Ahmedabad, India",MH,LIC-92310,NPI-5812607822,City Clinic,56
+118,Priya Wilson,Dermatology,+91-8811456826,priya.wilson@example.com,"82 Park Ave, Ahmedabad, India",MH,LIC-61571,NPI-7538806714,HealthCare Plus,88
+119,Emily Reddy,Pediatrics,+91-7517830843,emily.reddy@example.com,"45 2nd St, Delhi, India",RJ,LIC-12983,NPI-8407816886,MedStar Center,93
+120,Emily Sharma,Pediatrics,+91-9841787349,emily.sharma@example.com,"153 Main Rd, Bangalore, India",KA,LIC-89273,NPI-5399767862,MedStar Center,91
+121,Michael Patel,Psychiatry,+91-7300775290,michael.patel@example.com,"39 2nd St, Chennai, India",MH,LIC-55084,NPI-5675258352,City Clinic,93
+122,Emily Mehta,Dermatology,+91-7393845661,emily.mehta@example.com,"153 Park Ave, Jaipur, India",UP,LIC-22676,NPI-2025540061,City Clinic,52
+123,Emily Patel,Pediatrics,+91-8003337661,emily.patel@example.com,"37 Main Rd, Kolkata, India",DL,LIC-45400,NPI-3919062871,LifeLine Hospital,61
+124,Sneha Khan,Neurology,+91-8112322020,sneha.khan@example.com,"171 2nd St, Jaipur, India",KA,LIC-66638,NPI-7875376983,MedStar Center,62
+125,Raj Davis,Pediatrics,+91-7279114499,raj.davis@example.com,"59 Main Rd, Jaipur, India",KA,LIC-48197,NPI-4567582450,City Clinic,95
+126,Rohan Mehta,Dermatology,+91-7157762472,rohan.mehta@example.com,"3 2nd St, Lucknow, India",MH,LIC-60948,NPI-9457231406,MedStar Center,98
+127,Priya Gupta,Dermatology,+91-9254993136,priya.gupta@example.com,"61 Park Ave, Bangalore, India",WB,LIC-94386,NPI-7404596561,HealthCare Plus,66
+128,Priya Reddy,ENT,+91-9675495692,priya.reddy@example.com,"120 Main Rd, Jaipur, India",KA,LIC-70504,NPI-4843658307,HealthCare Plus,86
+129,Raj Wilson,Orthopedics,+91-8172351610,raj.wilson@example.com,"29 Main Rd, Delhi, India",UP,LIC-98801,NPI-2413264846,LifeLine Hospital,74
+130,Rohan Wilson,Pediatrics,+91-8600685006,rohan.wilson@example.com,"38 Park Ave, Lucknow, India",TN,LIC-80831,NPI-7582477713,HealthCare Plus,86
+131,John Sharma,Dermatology,+91-9126638119,john.sharma@example.com,"45 2nd St, Lucknow, India",KA,LIC-94082,NPI-7748763458,LifeLine Hospital,89
+132,Emily Sharma,ENT,+91-9238795991,emily.sharma@example.com,"147 Main Rd, Delhi, India",UP,LIC-75082,NPI-4594944874,City Clinic,74
+133,Sneha Gupta,General Medicine,+91-7812700347,sneha.gupta@example.com,"7 Main Rd, Delhi, India",RJ,LIC-59708,NPI-7294145784,MedStar Center,80
+134,Sneha Iyer,Psychiatry,+91-8439324522,sneha.iyer@example.com,"181 2nd St, Jaipur, India",TN,LIC-28787,NPI-8868956365,City Clinic,78
+135,Michael Patel,Psychiatry,+91-7361199116,michael.patel@example.com,"46 Park Ave, Mumbai, India",UP,LIC-44832,NPI-8018001083,LifeLine Hospital,73
+136,Priya Brown,Orthopedics,+91-7079146438,priya.brown@example.com,"74 Main Rd, Kolkata, India",TN,LIC-23281,NPI-8532079140,City Clinic,71
+137,Neha Gupta,Dermatology,+91-8292628698,neha.gupta@example.com,"192 Main Rd, Chennai, India",KA,LIC-73888,NPI-7328951669,City Clinic,71
+138,Emily Patel,Dermatology,+91-9903622318,emily.patel@example.com,"29 Park Ave, Delhi, India",DL,LIC-31427,NPI-2647602123,MedStar Center,78
+139,Amit Brown,General Medicine,+91-9098706510,amit.brown@example.com,"160 Park Ave, Delhi, India",TN,LIC-39241,NPI-6470184877,HealthCare Plus,78
+140,Amit Reddy,Neurology,+91-7702758950,amit.reddy@example.com,"15 Park Ave, Lucknow, India",UP,LIC-85932,NPI-5943756011,LifeLine Hospital,77
+141,John Khan,Orthopedics,+91-8707654917,john.khan@example.com,"147 Main Rd, Lucknow, India",RJ,LIC-15626,NPI-2377579577,LifeLine Hospital,87
+142,Rohan Reddy,Psychiatry,+91-9798887704,rohan.reddy@example.com,"24 2nd St, Jaipur, India",UP,LIC-33019,NPI-6169857496,City Clinic,78
+143,Emily Patel,Pediatrics,+91-7076716230,emily.patel@example.com,"131 Main Rd, Kolkata, India",TN,LIC-48827,NPI-4916305943,LifeLine Hospital,52
+144,Raj Davis,Cardiology,+91-9608361341,raj.davis@example.com,"84 Main Rd, Ahmedabad, India",GJ,LIC-75455,NPI-1690740155,MedStar Center,71
+145,John Khan,Dermatology,+91-8860780615,john.khan@example.com,"139 Main Rd, Mumbai, India",WB,LIC-36589,NPI-9481271278,MedStar Center,87
+146,Raj Sharma,Pediatrics,+91-7170161543,raj.sharma@example.com,"11 2nd St, Delhi, India",WB,LIC-56167,NPI-2039575440,LifeLine Hospital,95
+147,Sarah Brown,Pediatrics,+91-8486129824,sarah.brown@example.com,"168 2nd St, Chennai, India",GJ,LIC-59153,NPI-1377383712,City Clinic,62
+148,Amit Gupta,Dermatology,+91-8704772501,amit.gupta@example.com,"103 2nd St, Ahmedabad, India",RJ,LIC-33398,NPI-8256196781,HealthCare Plus,99
+149,Rohan Iyer,General Medicine,+91-9879283627,rohan.iyer@example.com,"49 Park Ave, Lucknow, India",RJ,LIC-59786,NPI-7849513480,HealthCare Plus,58
+150,Raj Patel,Pediatrics,+91-9685663067,raj.patel@example.com,"62 2nd St, Jaipur, India",WB,LIC-34826,NPI-9934025222,MedStar Center,69
+151,Neha Brown,Dermatology,+91-8942692249,neha.brown@example.com,"127 Park Ave, Jaipur, India",RJ,LIC-31288,NPI-5645565386,HealthCare Plus,61
+152,Raj Reddy,Dermatology,+91-8413119122,raj.reddy@example.com,"55 2nd St, Chennai, India",KA,LIC-80316,NPI-9777459999,MedStar Center,93
+153,Sarah Patel,Orthopedics,+91-7981205653,sarah.patel@example.com,"37 Main Rd, Delhi, India",GJ,LIC-70315,NPI-7026961650,MedStar Center,78
+154,Amit Davis,Pediatrics,+91-7748154672,amit.davis@example.com,"94 Main Rd, Jaipur, India",TN,LIC-69321,NPI-4634595863,LifeLine Hospital,86
+155,Neha Wilson,Dermatology,+91-9207595442,neha.wilson@example.com,"96 Main Rd, Chennai, India",KA,LIC-35849,NPI-2698724705,LifeLine Hospital,85
+156,Rohan Gupta,ENT,+91-9813243686,rohan.gupta@example.com,"170 Park Ave, Delhi, India",UP,LIC-55241,NPI-6837509244,LifeLine Hospital,52
+157,Rohan Wilson,Neurology,+91-8012719328,rohan.wilson@example.com,"99 2nd St, Kolkata, India",UP,LIC-36723,NPI-7496632833,MedStar Center,86
+158,Sarah Mehta,ENT,+91-7418301429,sarah.mehta@example.com,"60 Main Rd, Jaipur, India",KA,LIC-80135,NPI-2679682426,City Clinic,77
+159,Priya Khan,Neurology,+91-8396680702,priya.khan@example.com,"193 Main Rd, Jaipur, India",KA,LIC-62233,NPI-6716126287,HealthCare Plus,78
+160,Raj Sharma,Neurology,+91-8068219667,raj.sharma@example.com,"8 Park Ave, Chennai, India",TN,LIC-98576,NPI-1717439551,HealthCare Plus,69
+161,Raj Khan,General Medicine,+91-9851018724,raj.khan@example.com,"165 Main Rd, Mumbai, India",KA,LIC-19847,NPI-1146835347,HealthCare Plus,63
+162,Raj Khan,Pediatrics,+91-7222036249,raj.khan@example.com,"29 Main Rd, Jaipur, India",MH,LIC-11058,NPI-6068106212,City Clinic,54
+163,Amit Reddy,ENT,+91-9955830283,amit.reddy@example.com,"20 Main Rd, Bangalore, India",MH,LIC-11239,NPI-9611151658,HealthCare Plus,83
+164,Rohan Mehta,General Medicine,+91-8953092830,rohan.mehta@example.com,"184 Park Ave, Delhi, India",TN,LIC-78785,NPI-5894764883,MedStar Center,94
+165,Rohan Iyer,Pediatrics,+91-9892370294,rohan.iyer@example.com,"8 2nd St, Lucknow, India",KA,LIC-33196,NPI-5137543150,HealthCare Plus,96
+166,Amit Davis,General Medicine,+91-8607592362,amit.davis@example.com,"158 2nd St, Bangalore, India",MH,LIC-91040,NPI-9026885767,MedStar Center,89
+167,Emily Mehta,ENT,+91-9905602848,emily.mehta@example.com,"1 Park Ave, Jaipur, India",MH,LIC-57055,NPI-6986602036,LifeLine Hospital,54
+168,Sneha Patel,Dermatology,+91-9598257343,sneha.patel@example.com,"198 Park Ave, Mumbai, India",MH,LIC-70576,NPI-5266349656,LifeLine Hospital,62
+169,John Mehta,Orthopedics,+91-9793926241,john.mehta@example.com,"125 2nd St, Ahmedabad, India",KA,LIC-77203,NPI-7176903186,HealthCare Plus,83
+170,Raj Davis,Orthopedics,+91-8613500032,raj.davis@example.com,"88 2nd St, Ahmedabad, India",MH,LIC-61924,NPI-2633890194,LifeLine Hospital,78
+171,Amit Sharma,Psychiatry,+91-8603104240,amit.sharma@example.com,"35 2nd St, Bangalore, India",GJ,LIC-86743,NPI-8054810061,HealthCare Plus,51
+172,Raj Reddy,Neurology,+91-9229439279,raj.reddy@example.com,"194 2nd St, Chennai, India",UP,LIC-41348,NPI-2465648281,City Clinic,61
+173,Rohan Khan,General Medicine,+91-9291805483,rohan.khan@example.com,"15 Park Ave, Kolkata, India",DL,LIC-36966,NPI-8502774061,HealthCare Plus,93
+174,John Davis,Orthopedics,+91-7032482294,john.davis@example.com,"80 Park Ave, Lucknow, India",UP,LIC-97163,NPI-9848781070,LifeLine Hospital,70
+175,Sarah Reddy,Dermatology,+91-7714388813,sarah.reddy@example.com,"125 Main Rd, Chennai, India",WB,LIC-46378,NPI-4448969966,LifeLine Hospital,84
+176,Sneha Gupta,ENT,+91-8717579777,sneha.gupta@example.com,"177 Main Rd, Chennai, India",RJ,LIC-96365,NPI-8730000934,City Clinic,80
+177,Emily Sharma,Dermatology,+91-7795550140,emily.sharma@example.com,"42 2nd St, Jaipur, India",KA,LIC-69189,NPI-2604211883,LifeLine Hospital,94
+178,Michael Brown,ENT,+91-9212660500,michael.brown@example.com,"137 2nd St, Mumbai, India",WB,LIC-91929,NPI-4607176828,HealthCare Plus,57
+179,Amit Iyer,Orthopedics,+91-8297339971,amit.iyer@example.com,"50 Park Ave, Chennai, India",KA,LIC-17227,NPI-1410321041,MedStar Center,85
+180,Amit Davis,Dermatology,+91-7657060420,amit.davis@example.com,"175 Main Rd, Delhi, India",GJ,LIC-27633,NPI-1930890358,City Clinic,66
+181,John Reddy,Pediatrics,+91-7885562822,john.reddy@example.com,"160 Park Ave, Bangalore, India",KA,LIC-84696,NPI-8009453132,City Clinic,74
+182,Priya Davis,Neurology,+91-9902716049,priya.davis@example.com,"67 2nd St, Ahmedabad, India",TN,LIC-98700,NPI-1067951050,MedStar Center,73
+183,Priya Gupta,Dermatology,+91-8448379493,priya.gupta@example.com,"42 Park Ave, Lucknow, India",MH,LIC-64253,NPI-4840520544,LifeLine Hospital,52
+184,Emily Sharma,Orthopedics,+91-8475580997,emily.sharma@example.com,"169 Park Ave, Chennai, India",KA,LIC-82240,NPI-6725199618,HealthCare Plus,55
+185,Michael Patel,ENT,+91-9395661520,michael.patel@example.com,"35 2nd St, Jaipur, India",MH,LIC-63363,NPI-3727132636,MedStar Center,96
+186,Michael Iyer,ENT,+91-8815435933,michael.iyer@example.com,"121 Park Ave, Kolkata, India",TN,LIC-78619,NPI-2292154255,LifeLine Hospital,57
+187,Priya Davis,Pediatrics,+91-7654621799,priya.davis@example.com,"118 Main Rd, Chennai, India",GJ,LIC-72711,NPI-3884321565,City Clinic,69
+188,Sarah Patel,Psychiatry,+91-7548525216,sarah.patel@example.com,"16 2nd St, Chennai, India",RJ,LIC-29169,NPI-1155307661,LifeLine Hospital,82
+189,Rohan Patel,Cardiology,+91-7376422740,rohan.patel@example.com,"2 Park Ave, Mumbai, India",TN,LIC-94416,NPI-7728389947,City Clinic,91
+190,Amit Iyer,ENT,+91-9697024940,amit.iyer@example.com,"35 2nd St, Kolkata, India",WB,LIC-55033,NPI-8393451469,HealthCare Plus,52
+191,Michael Gupta,ENT,+91-7347545672,michael.gupta@example.com,"143 Main Rd, Delhi, India",MH,LIC-16721,NPI-9485181203,HealthCare Plus,59
+192,Rohan Mehta,Neurology,+91-8347450144,rohan.mehta@example.com,"164 Park Ave, Ahmedabad, India",UP,LIC-41552,NPI-9152971599,HealthCare Plus,95
+193,Neha Reddy,Orthopedics,+91-8712244648,neha.reddy@example.com,"134 Main Rd, Lucknow, India",TN,LIC-58244,NPI-5587765127,City Clinic,83
+194,Raj Gupta,Neurology,+91-9360211387,raj.gupta@example.com,"12 Main Rd, Jaipur, India",WB,LIC-43613,NPI-1453826363,MedStar Center,55
+195,Rohan Davis,Orthopedics,+91-8659836702,rohan.davis@example.com,"5 Park Ave, Bangalore, India",MH,LIC-65677,NPI-3660722590,LifeLine Hospital,64
+196,Michael Reddy,Cardiology,+91-7610956386,michael.reddy@example.com,"149 Main Rd, Chennai, India",TN,LIC-38141,NPI-1999204964,MedStar Center,78
+197,Neha Brown,General Medicine,+91-7561396798,neha.brown@example.com,"116 Park Ave, Ahmedabad, India",UP,LIC-61196,NPI-8849215501,MedStar Center,86
+198,Sarah Khan,ENT,+91-8067644086,sarah.khan@example.com,"130 2nd St, Delhi, India",KA,LIC-16548,NPI-8689442021,MedStar Center,70
+199,Michael Iyer,Psychiatry,+91-9299139494,michael.iyer@example.com,"133 Main Rd, Lucknow, India",UP,LIC-32740,NPI-6330919665,City Clinic,70
+200,Rohan Khan,Neurology,+91-7183108255,rohan.khan@example.com,"164 Main Rd, Delhi, India",TN,LIC-63744,NPI-5841286141,LifeLine Hospital,83

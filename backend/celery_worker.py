@@ -62,12 +62,53 @@ def process_upload_task(self, file_path: str, input_type: str = "csv"):
         df = pd.read_csv(file_path)
         col_map = llm.map_csv_columns(list(df.columns))
         
-        raw_records = df.head(10).to_dict(orient='records')
+        # Sanitize col_map: ensure values are strings
+        sanitized_map = {}
+        for k, v in col_map.items():
+            if isinstance(v, str):
+                sanitized_map[k] = v
+            elif isinstance(v, list) and len(v) > 0 and isinstance(v[0], str):
+                sanitized_map[k] = v[0] # Take first if list
+            else:
+                 sanitized_map[k] = None
+
+        col_map = sanitized_map
+        
+        raw_records = df.head(50).to_dict(orient='records')
         for r in raw_records:
+            # Handle NPI or Registration Number
+            npi_val = str(r.get(col_map.get('npi')) or '')
+            
+            # If NPI is missing/mapped to None, try finding 'registration_number' or similar in raw columns if LLM failed
+            if not npi_val or npi_val == 'nan' or npi_val == 'None':
+                 # Heuristic backup: look for 'registration' in keys
+                 for key in r.keys():
+                     if 'registration' in key.lower() or 'reg_no' in key.lower():
+                         npi_val = str(r[key])
+                         break
+
+            # Handle Name Parsing (Full Name -> First/Last)
+            first_name = r.get(col_map.get('first_name'))
+            last_name = r.get(col_map.get('last_name'))
+            
+            if not first_name and not last_name:
+                 # Check for 'full_name' or 'name' column
+                 full_name_val = ""
+                 for key in r.keys():
+                     if 'full_name' in key.lower() or 'provider_name' in key.lower():
+                         full_name_val = str(r[key])
+                         break
+                 
+                 if full_name_val:
+                     parts = full_name_val.replace("Dr.", "").strip().split(' ')
+                     if len(parts) > 0:
+                         first_name = parts[0]
+                         last_name = " ".join(parts[1:]) if len(parts) > 1 else ""
+
             records.append({
-                "npi": str(r.get(col_map.get('npi')) or ''),
-                "first_name": r.get(col_map.get('first_name')),
-                "last_name": r.get(col_map.get('last_name')),
+                "npi": npi_val,
+                "first_name": first_name,
+                "last_name": last_name,
                 "website": r.get(col_map.get('website'))
             })
 

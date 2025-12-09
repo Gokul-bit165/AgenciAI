@@ -1,14 +1,28 @@
 import React from 'react';
-import { AlertCircle, CheckCircle, XCircle, ExternalLink, Globe } from 'lucide-react';
+import { AlertCircle, CheckCircle, XCircle, ExternalLink, Globe, Download } from 'lucide-react';
 
-const ProviderTable = ({ data, report }) => {
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8005';
+
+const ProviderTable = ({ data, report, taskId }) => {
     if (!data || data.length === 0) return null;
+
+    const handleDownload = () => {
+        window.location.href = `${API_URL}/download/${taskId}`;
+    };
 
     return (
         <div className="space-y-6">
-            <h2 className="text-2xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                Directory Validation Report
-            </h2>
+            <div className="flex justify-between items-end">
+                <h2 className="text-2xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
+                    Directory Validation Report
+                </h2>
+                <button
+                    onClick={handleDownload}
+                    className="flex items-center gap-2 bg-indigo-600 hover:bg-indigo-500 px-4 py-2 rounded-lg text-sm font-bold transition-colors"
+                >
+                    <Download size={16} /> Download CSV
+                </button>
+            </div>
 
             {/* KPI Cards */}
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4">

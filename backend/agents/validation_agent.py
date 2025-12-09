@@ -4,12 +4,39 @@ class ValidationAgent:
     def __init__(self):
         self.api_url = "https://npiregistry.cms.hhs.gov/api/"
 
+    def validate_indian_registration(self, reg_number: str):
+        """
+        Validates Indian Medical Registration Number (Format: STATE_CODE/NUMBER).
+        Example: TNMC/12345, UPMC/09876
+        """
+        import re
+        # Format: 2-4 uppercase letters / 4-6 digits
+        pattern = r"^[A-Z]{2,4}/[0-9]{4,6}$"
+        
+        if re.match(pattern, reg_number):
+            # Mock Success for formatted IDs
+            return {
+                "valid": True,
+                "npi": reg_number,
+                "primary_taxonomy": "General Practice (IMR)",
+                "status": "A",
+                "last_updated": "2024-01-15",
+                "match_score": 1.0,
+                "api_data": {"first_name": "Verified", "last_name": "Practitioner"}
+            }
+        else:
+            return {"valid": False, "reason": "Invalid Registration Number Format"}
+
     def validate_npi(self, npi_number: str, first_name: str = None, last_name: str = None):
         """
-        Validates a provider against the CMS NPI Registry.
+        Validates a provider against the CMS NPI Registry OR checks Indian Registration format.
         """
         if not npi_number:
-            return {"valid": False, "reason": "No NPI provided"}
+            return {"valid": False, "reason": "No NPI/Registration provided"}
+
+        # Check if it's an Indian Registration Number (contains slash or letters)
+        if '/' in npi_number or any(c.isalpha() for c in npi_number):
+            return self.validate_indian_registration(npi_number)
             
         params = {
             "version": "2.1",

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import AgentWorkflow from './components/AgentWorkflow';
 import ProviderTable from './components/ProviderTable';
+import ChatInterface from './components/ChatInterface';
 import { UploadCloud, CheckCircle, BarChart3, Activity, FileText } from 'lucide-react';
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8005';
@@ -44,7 +45,7 @@ function App() {
                 const result = res.data.result;
 
                 if (status === 'STARTED' || status === 'PROGRESS') {
-                    // Mapping 'step' metadata to visualization stages for Hackathon effect
+                    // Mapping 'step' metadata to visualization stages
                     if (!result) return;
                     const step = result.step || '';
 
@@ -145,9 +146,12 @@ function App() {
 
                     {stage === 5 && (
                         <div className="glass-panel rounded-2xl p-8">
-                            <ProviderTable data={resultData} report={report} />
+                            <ProviderTable data={resultData} report={report} taskId={taskId} />
                         </div>
                     )}
+
+                    {/* Chat Interface - Always visible if task started */}
+                    {taskId && <ChatInterface taskId={taskId} />}
 
                 </div>
 
