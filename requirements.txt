@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+requests
+beautifulsoup4
+faker
+fpdf
+paddlepaddle
+paddleocr
+celery
+redis
+python-multipart
+# For PDF generation
+pillow

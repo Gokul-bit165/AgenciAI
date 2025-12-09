@@ -1,0 +1,51 @@
+provider_id,full_name,registration_number,specialization,city
+1,Dr. ValidTest 1,UPMC/06638,Cardiologist,Delhi
+2,Dr. ValidTest 2,TNMC/10408,General Physician,Delhi
+3,Dr. ValidTest 3,WBMC/69066,General Physician,Chennai
+4,Dr. ValidTest 4,DLMC/23662,General Physician,Mumbai
+5,Dr. ValidTest 5,APMC/59187,General Physician,Mumbai
+6,Dr. ValidTest 6,KLMC/10132,Cardiologist,Mumbai
+7,Dr. ValidTest 7,APMC/27000,Dermatologist,Delhi
+8,Dr. ValidTest 8,DLMC/48872,Dermatologist,Mumbai
+9,Dr. ValidTest 9,UPMC/67163,General Physician,Chennai
+10,Dr. ValidTest 10,TNMC/53335,Cardiologist,Chennai
+11,Dr. ValidTest 11,RJMC/62271,Cardiologist,Chennai
+12,Dr. ValidTest 12,RJMC/22149,General Physician,Chennai
+13,Dr. ValidTest 13,APMC/90130,Dermatologist,Mumbai
+14,Dr. ValidTest 14,RJMC/15301,Dermatologist,Delhi
+15,Dr. ValidTest 15,GJMC/84120,Dermatologist,Chennai
+16,Dr. ValidTest 16,KLMC/38166,Dermatologist,Chennai
+17,Dr. ValidTest 17,KLMC/42563,Cardiologist,Chennai
+18,Dr. ValidTest 18,APMC/03112,Cardiologist,Chennai
+19,Dr. ValidTest 19,KLMC/47714,Cardiologist,Chennai
+20,Dr. ValidTest 20,GJMC/20565,Dermatologist,Chennai
+21,Dr. ValidTest 21,RJMC/21833,Cardiologist,Delhi
+22,Dr. ValidTest 22,DLMC/90038,Cardiologist,Delhi
+23,Dr. ValidTest 23,KLMC/12587,Cardiologist,Delhi
+24,Dr. ValidTest 24,MHMC/98447,General Physician,Delhi
+25,Dr. ValidTest 25,TNMC/06943,Dermatologist,Delhi
+26,Dr. ValidTest 26,TNMC/99873,Dermatologist,Delhi
+27,Dr. ValidTest 27,RJMC/89880,Dermatologist,Chennai
+28,Dr. ValidTest 28,DLMC/03763,Dermatologist,Delhi
+29,Dr. ValidTest 29,TNMC/72044,Cardiologist,Delhi
+30,Dr. ValidTest 30,UPMC/69205,Cardiologist,Chennai
+31,Dr. ValidTest 31,TNMC/20354,Dermatologist,Mumbai
+32,Dr. ValidTest 32,WBMC/09776,General Physician,Delhi
+33,Dr. ValidTest 33,UPMC/70959,Dermatologist,Mumbai
+34,Dr. ValidTest 34,RJMC/06426,General Physician,Delhi
+35,Dr. ValidTest 35,KLMC/80218,Cardiologist,Mumbai
+36,Dr. ValidTest 36,WBMC/52959,Cardiologist,Chennai
+37,Dr. ValidTest 37,KAMC/39719,Cardiologist,Delhi
+38,Dr. ValidTest 38,TNMC/76076,Cardiologist,Mumbai
+39,Dr. ValidTest 39,MHMC/50390,Dermatologist,Mumbai
+40,Dr. ValidTest 40,KAMC/69432,Dermatologist,Delhi
+41,Dr. ValidTest 41,TNMC/53603,Cardiologist,Mumbai
+42,Dr. ValidTest 42,RJMC/69867,Dermatologist,Mumbai
+43,Dr. ValidTest 43,RJMC/40545,General Physician,Mumbai
+44,Dr. ValidTest 44,KLMC/62503,General Physician,Chennai
+45,Dr. ValidTest 45,UPMC/27378,General Physician,Mumbai
+46,Dr. ValidTest 46,APMC/55476,Dermatologist,Chennai
+47,Dr. ValidTest 47,KAMC/94785,General Physician,Mumbai
+48,Dr. ValidTest 48,KAMC/40062,General Physician,Delhi
+49,Dr. ValidTest 49,TNMC/64537,General Physician,Delhi
+50,Dr. ValidTest 50,MHMC/31200,Dermatologist,Mumbai

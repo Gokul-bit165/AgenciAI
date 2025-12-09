@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+celery[redis]
+redis
+requests
+pandas
+beautifulsoup4
+python-multipart
+httpx
+pydantic
+pydantic-settings
+sqlalchemy
+# PDF & OCR
+paddlepaddle
+paddleocr>=2.7.0.3
+

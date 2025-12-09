@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: agenciai-backend
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8005:8000"
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+      # Connect to host's Ollama instance. 
+      # On Windows/Mac Docker Desktop, host.docker.internal works.
+      # On Linux, use 172.17.0.1 or --network host.
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    depends_on:
+      - redis
+    command: python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+  worker:
+    build: ./backend
+    container_name: agenciai-worker
+    volumes:
+      - ./backend:/app
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    depends_on:
+      - redis
+      - backend
+    command: celery -A celery_worker.celery_app worker --loglevel=info
+
+  frontend:
+    build: ./frontend
+    container_name: agenciai-frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8005
+    depends_on:
+      - backend
+    command: npm run dev -- --host 0.0.0.0
+
+  redis:
+    image: redis:7-alpine
+    container_name: agenciai-redis
+    ports:
+      - "6379:6379"
