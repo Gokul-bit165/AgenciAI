@@ -1,0 +1,301 @@
+provider_id,full_name,registration_number,specialization,city,npi,website
+1,Dr. John Reddy,,General Physician,Chicago,6545944064,https://johnreddy.com
+2,Dr. Alice Reddy,,Neurologist,Los Angeles,1557808089,https://alicereddy.com
+3,Dr. Michael Sharma,,Orthopedic Surgeon,Los Angeles,6168302738,https://michaelsharma.com
+4,Dr. Amit Sharma,,Orthopedic Surgeon,New York,4791072251,https://amitsharma.com
+5,Dr. Priya Smith,DLMC/76819,Cardiologist,Chennai,,https://priyasmith.in
+6,Dr. Amit Jones,,Pediatrician,Los Angeles,8877351806,https://amitjones.com
+7,Dr. Priya Kumar,,General Physician,Houston,6374698599,https://priyakumar.com
+8,Dr. Robert Patel,INVALID-ID,Pediatrician,Chennai,,https://robertpatel.in
+9,Dr. Robert Johnson,TNMC/76880,Cardiologist,Bangalore,,https://robertjohnson.in
+10,Dr. Deepa Brown,,Pediatrician,Houston,2190177566,https://deepabrown.com
+11,Dr. Robert Williams,TNMC/69254,Cardiologist,Chennai,,https://robertwilliams.in
+12,Dr. John Singh,UPMC/96527,Orthopedic Surgeon,Bangalore,,https://johnsingh.in
+13,Dr. Alice Reddy,,Cardiologist,Houston,5485960898,https://alicereddy.com
+14,Dr. Robert Singh,KA/34281,Pediatrician,Chennai,,https://robertsingh.in
+15,Dr. Rajesh Brown,KA/23495,General Physician,Mumbai,,https://rajeshbrown.in
+16,Dr. Rajesh Kumar,TNMC/62576,Neurologist,Mumbai,,https://rajeshkumar.in
+17,Dr. John Singh,,General Physician,Houston,7823258699,https://johnsingh.com
+18,Dr. Michael Sharma,,Orthopedic Surgeon,Chicago,2340976312,https://michaelsharma.com
+19,Dr. Rajesh Jones,TNMC/36804,General Physician,Chennai,,https://rajeshjones.in
+20,Dr. Emily Johnson,TNMC/86541,Orthopedic Surgeon,Bangalore,,https://emilyjohnson.in
+21,Dr. Priya Williams,MHMC/73975,Neurologist,Chennai,,https://priyawilliams.in
+22,Dr. Robert Brown,DLMC/27770,Orthopedic Surgeon,Mumbai,,https://robertbrown.in
+23,Dr. Suresh Kumar,,General Physician,Phoenix,123,https://sureshkumar.com
+24,Dr. Deepa Jones,DLMC/21621,Dermatologist,Bangalore,,https://deepajones.in
+25,Dr. Rajesh Johnson,,Cardiologist,Los Angeles,6624004263,https://rajeshjohnson.com
+26,Dr. Robert Williams,,General Physician,Houston,2031838223,https://robertwilliams.com
+27,Dr. Suresh Kumar,UPMC/48161,Neurologist,Delhi,,https://sureshkumar.in
+28,Dr. Michael Kumar,,Cardiologist,Phoenix,2513930906,https://michaelkumar.com
+29,Dr. Emily Williams,TNMC/60234,Dermatologist,Hyderabad,,https://emilywilliams.in
+30,Dr. Amit Reddy,,Orthopedic Surgeon,New York,6063602926,https://amitreddy.com
+31,Dr. Priya Reddy,,Pediatrician,Houston,6435533456,https://priyareddy.com
+32,Dr. Robert Sharma,MHMC/71827,Pediatrician,Hyderabad,,https://robertsharma.in
+33,Dr. Alice Johnson,KA/53622,Neurologist,Chennai,,https://alicejohnson.in
+34,Dr. Suresh Johnson,,Neurologist,Phoenix,3942557405,https://sureshjohnson.com
+35,Dr. Emily Reddy,,Pediatrician,Houston,5318179156,https://emilyreddy.com
+36,Dr. Suresh Patel,MHMC/94306,Neurologist,Mumbai,,https://sureshpatel.in
+37,Dr. Suresh Jones,INVALID-ID,Cardiologist,Hyderabad,,https://sureshjones.in
+38,Dr. Suresh Williams,,Neurologist,Chicago,5023501494,https://sureshwilliams.com
+39,Dr. Deepa Brown,,Dermatologist,Los Angeles,7239080576,https://deepabrown.com
+40,Dr. Suresh Patel,UPMC/72752,General Physician,Chennai,,https://sureshpatel.in
+41,Dr. Amit Smith,KA/25113,Dermatologist,Delhi,,https://amitsmith.in
+42,Dr. Michael Sharma,,Pediatrician,Houston,5868035861,https://michaelsharma.com
+43,Dr. Priya Brown,UPMC/42201,Orthopedic Surgeon,Bangalore,,https://priyabrown.in
+44,Dr. Amit Williams,,Orthopedic Surgeon,Phoenix,123,https://amitwilliams.com
+45,Dr. Michael Williams,KA/85769,Cardiologist,Mumbai,,https://michaelwilliams.in
+46,Dr. Alice Kumar,,Orthopedic Surgeon,Phoenix,123,https://alicekumar.com
+47,Dr. Robert Jones,MHMC/64865,Dermatologist,Chennai,,https://robertjones.in
+48,Dr. Priya Kumar,DLMC/95316,Orthopedic Surgeon,Mumbai,,https://priyakumar.in
+49,Dr. Robert Kumar,,Cardiologist,Los Angeles,4389483491,https://robertkumar.com
+50,Dr. Michael Smith,,Dermatologist,Los Angeles,3536408619,https://michaelsmith.com
+51,Dr. Emily Sharma,DLMC/43438,Cardiologist,Chennai,,https://emilysharma.in
+52,Dr. Emily Reddy,,Pediatrician,Los Angeles,4154620577,https://emilyreddy.com
+53,Dr. Emily Jones,,Neurologist,New York,6733946831,https://emilyjones.com
+54,Dr. Michael Patel,DLMC/24764,Pediatrician,Mumbai,,https://michaelpatel.in
+55,Dr. Priya Jones,KA/23359,General Physician,Bangalore,,https://priyajones.in
+56,Dr. Robert Kumar,UPMC/73561,Dermatologist,Delhi,,https://robertkumar.in
+57,Dr. Priya Johnson,MHMC/22271,General Physician,Mumbai,,https://priyajohnson.in
+58,Dr. Deepa Smith,UPMC/16754,General Physician,Chennai,,https://deepasmith.in
+59,Dr. Emily Johnson,KA/79821,Orthopedic Surgeon,Chennai,,https://emilyjohnson.in
+60,Dr. Rajesh Kumar,TNMC/16021,Dermatologist,Delhi,,https://rajeshkumar.in
+61,Dr. Suresh Brown,MHMC/85820,Dermatologist,Delhi,,https://sureshbrown.in
+62,Dr. Rajesh Patel,,Neurologist,Los Angeles,6534835571,https://rajeshpatel.com
+63,Dr. Emily Johnson,DLMC/91733,Pediatrician,Mumbai,,https://emilyjohnson.in
+64,Dr. Priya Kumar,DLMC/96624,General Physician,Delhi,,https://priyakumar.in
+65,Dr. Michael Singh,KA/83499,Cardiologist,Hyderabad,,https://michaelsingh.in
+66,Dr. John Smith,INVALID-ID,Orthopedic Surgeon,Mumbai,,https://johnsmith.in
+67,Dr. John Johnson,MHMC/40899,Neurologist,Chennai,,https://johnjohnson.in
+68,Dr. Suresh Jones,DLMC/65927,Cardiologist,Chennai,,https://sureshjones.in
+69,Dr. John Sharma,,Neurologist,New York,2585781821,https://johnsharma.com
+70,Dr. Emily Smith,KA/38594,Orthopedic Surgeon,Chennai,,https://emilysmith.in
+71,Dr. Emily Patel,KA/55689,Orthopedic Surgeon,Mumbai,,https://emilypatel.in
+72,Dr. Robert Johnson,MHMC/33481,Orthopedic Surgeon,Chennai,,https://robertjohnson.in
+73,Dr. Robert Singh,INVALID-ID,Neurologist,Mumbai,,https://robertsingh.in
+74,Dr. John Johnson,INVALID-ID,Pediatrician,Bangalore,,https://johnjohnson.in
+75,Dr. Suresh Johnson,,Cardiologist,Houston,8444157211,https://sureshjohnson.com
+76,Dr. Robert Sharma,,Dermatologist,Los Angeles,1669954063,https://robertsharma.com
+77,Dr. John Reddy,DLMC/90460,Pediatrician,Chennai,,https://johnreddy.in
+78,Dr. Emily Brown,TNMC/22592,Pediatrician,Delhi,,https://emilybrown.in
+79,Dr. John Reddy,UPMC/74758,Orthopedic Surgeon,Chennai,,https://johnreddy.in
+80,Dr. John Reddy,,Cardiologist,New York,5561010776,https://johnreddy.com
+81,Dr. Alice Singh,MHMC/99924,Orthopedic Surgeon,Hyderabad,,https://alicesingh.in
+82,Dr. Deepa Williams,DLMC/27220,Cardiologist,Bangalore,,https://deepawilliams.in
+83,Dr. John Williams,KA/81309,Cardiologist,Hyderabad,,https://johnwilliams.in
+84,Dr. John Sharma,KA/48901,Dermatologist,Chennai,,https://johnsharma.in
+85,Dr. Emily Brown,UPMC/28230,Orthopedic Surgeon,Bangalore,,https://emilybrown.in
+86,Dr. Amit Patel,,General Physician,New York,6451681060,https://amitpatel.com
+87,Dr. John Patel,,General Physician,Houston,4983956454,https://johnpatel.com
+88,Dr. Alice Brown,,General Physician,Houston,9511658597,https://alicebrown.com
+89,Dr. Suresh Williams,DLMC/23345,Pediatrician,Chennai,,https://sureshwilliams.in
+90,Dr. John Reddy,UPMC/12765,Orthopedic Surgeon,Chennai,,https://johnreddy.in
+91,Dr. Michael Smith,DLMC/67544,Cardiologist,Bangalore,,https://michaelsmith.in
+92,Dr. Deepa Jones,,Pediatrician,Phoenix,3619578463,https://deepajones.com
+93,Dr. Suresh Reddy,,Cardiologist,New York,6177248217,https://sureshreddy.com
+94,Dr. Deepa Sharma,,General Physician,Houston,9267208403,https://deepasharma.com
+95,Dr. Priya Williams,TNMC/39634,General Physician,Delhi,,https://priyawilliams.in
+96,Dr. Priya Reddy,DLMC/83840,Dermatologist,Mumbai,,https://priyareddy.in
+97,Dr. Priya Reddy,KA/43938,Cardiologist,Delhi,,https://priyareddy.in
+98,Dr. Rajesh Brown,TNMC/93781,Dermatologist,Bangalore,,https://rajeshbrown.in
+99,Dr. Amit Smith,,Dermatologist,Houston,7028582376,https://amitsmith.com
+100,Dr. John Williams,INVALID-ID,Orthopedic Surgeon,Chennai,,https://johnwilliams.in
+101,Dr. Alice Kumar,,Dermatologist,New York,7752416625,https://alicekumar.com
+102,Dr. Priya Williams,UPMC/76637,Orthopedic Surgeon,Mumbai,,https://priyawilliams.in
+103,Dr. Emily Sharma,DLMC/61786,Cardiologist,Chennai,,https://emilysharma.in
+104,Dr. Suresh Williams,INVALID-ID,Orthopedic Surgeon,Mumbai,,https://sureshwilliams.in
+105,Dr. Robert Brown,,Orthopedic Surgeon,Los Angeles,6337062744,https://robertbrown.com
+106,Dr. Michael Williams,DLMC/30927,Neurologist,Bangalore,,https://michaelwilliams.in
+107,Dr. John Williams,INVALID-ID,General Physician,Chennai,,https://johnwilliams.in
+108,Dr. Robert Williams,TNMC/53938,Cardiologist,Bangalore,,https://robertwilliams.in
+109,Dr. Suresh Jones,UPMC/61591,Pediatrician,Bangalore,,https://sureshjones.in
+110,Dr. John Johnson,UPMC/85329,Orthopedic Surgeon,Bangalore,,https://johnjohnson.in
+111,Dr. Robert Williams,MHMC/31201,Orthopedic Surgeon,Bangalore,,https://robertwilliams.in
+112,Dr. Michael Kumar,MHMC/79589,General Physician,Delhi,,https://michaelkumar.in
+113,Dr. Robert Jones,DLMC/87899,Cardiologist,Bangalore,,https://robertjones.in
+114,Dr. Michael Sharma,,General Physician,Chicago,3168973375,https://michaelsharma.com
+115,Dr. Emily Patel,,Cardiologist,Houston,8501246073,https://emilypatel.com
+116,Dr. Deepa Brown,MHMC/96052,General Physician,Bangalore,,https://deepabrown.in
+117,Dr. Michael Sharma,KA/58747,Dermatologist,Delhi,,https://michaelsharma.in
+118,Dr. Amit Patel,DLMC/62597,Pediatrician,Mumbai,,https://amitpatel.in
+119,Dr. Alice Singh,,Cardiologist,Chicago,5627637621,https://alicesingh.com
+120,Dr. Alice Kumar,,Dermatologist,Phoenix,2324589694,https://alicekumar.com
+121,Dr. Alice Smith,,Dermatologist,Houston,6089053182,https://alicesmith.com
+122,Dr. Emily Patel,TNMC/95355,General Physician,Chennai,,https://emilypatel.in
+123,Dr. Alice Kumar,MHMC/75283,Neurologist,Hyderabad,,https://alicekumar.in
+124,Dr. Suresh Williams,DLMC/82581,Dermatologist,Hyderabad,,https://sureshwilliams.in
+125,Dr. John Singh,INVALID-ID,Pediatrician,Mumbai,,https://johnsingh.in
+126,Dr. Suresh Smith,INVALID-ID,Orthopedic Surgeon,Chennai,,https://sureshsmith.in
+127,Dr. Robert Smith,UPMC/84941,Dermatologist,Bangalore,,https://robertsmith.in
+128,Dr. Robert Smith,TNMC/67200,Pediatrician,Delhi,,https://robertsmith.in
+129,Dr. Emily Brown,,General Physician,Los Angeles,123,https://emilybrown.com
+130,Dr. Amit Johnson,,Orthopedic Surgeon,Phoenix,1647274456,https://amitjohnson.com
+131,Dr. Priya Williams,DLMC/75409,Dermatologist,Mumbai,,https://priyawilliams.in
+132,Dr. Emily Williams,MHMC/96110,General Physician,Delhi,,https://emilywilliams.in
+133,Dr. Suresh Jones,INVALID-ID,Orthopedic Surgeon,Bangalore,,https://sureshjones.in
+134,Dr. Robert Kumar,,General Physician,Houston,5969808500,https://robertkumar.com
+135,Dr. Emily Johnson,,General Physician,Phoenix,4124638551,https://emilyjohnson.com
+136,Dr. Deepa Jones,,Neurologist,Houston,4101102694,https://deepajones.com
+137,Dr. Emily Kumar,TNMC/43712,Pediatrician,Delhi,,https://emilykumar.in
+138,Dr. Suresh Reddy,UPMC/34648,Neurologist,Bangalore,,https://sureshreddy.in
+139,Dr. Amit Brown,INVALID-ID,General Physician,Mumbai,,https://amitbrown.in
+140,Dr. Alice Johnson,,Orthopedic Surgeon,Chicago,123,https://alicejohnson.com
+141,Dr. Priya Smith,,General Physician,New York,123,https://priyasmith.com
+142,Dr. Emily Johnson,,Neurologist,Chicago,8557432509,https://emilyjohnson.com
+143,Dr. Michael Singh,INVALID-ID,Pediatrician,Bangalore,,https://michaelsingh.in
+144,Dr. Priya Kumar,MHMC/96914,General Physician,Bangalore,,https://priyakumar.in
+145,Dr. Alice Sharma,,General Physician,New York,8875860705,https://alicesharma.com
+146,Dr. Deepa Singh,KA/66885,Pediatrician,Bangalore,,https://deepasingh.in
+147,Dr. Emily Jones,INVALID-ID,Neurologist,Chennai,,https://emilyjones.in
+148,Dr. Robert Johnson,UPMC/21171,Neurologist,Bangalore,,https://robertjohnson.in
+149,Dr. Alice Johnson,,Orthopedic Surgeon,Los Angeles,6319531198,https://alicejohnson.com
+150,Dr. Rajesh Williams,MHMC/45832,General Physician,Bangalore,,https://rajeshwilliams.in
+151,Dr. Alice Smith,DLMC/39563,Cardiologist,Hyderabad,,https://alicesmith.in
+152,Dr. Emily Jones,TNMC/53414,Neurologist,Chennai,,https://emilyjones.in
+153,Dr. Priya Johnson,TNMC/51080,Pediatrician,Bangalore,,https://priyajohnson.in
+154,Dr. Alice Reddy,,Neurologist,New York,7064879373,https://alicereddy.com
+155,Dr. Emily Kumar,,Orthopedic Surgeon,Houston,7182479945,https://emilykumar.com
+156,Dr. Robert Brown,UPMC/83764,Cardiologist,Chennai,,https://robertbrown.in
+157,Dr. Emily Brown,UPMC/39424,Pediatrician,Delhi,,https://emilybrown.in
+158,Dr. Suresh Reddy,INVALID-ID,Cardiologist,Mumbai,,https://sureshreddy.in
+159,Dr. Robert Brown,,Orthopedic Surgeon,Chicago,9910443314,https://robertbrown.com
+160,Dr. Suresh Johnson,,General Physician,New York,9332309208,https://sureshjohnson.com
+161,Dr. Michael Williams,,Dermatologist,New York,3908907504,https://michaelwilliams.com
+162,Dr. Rajesh Sharma,UPMC/13482,General Physician,Hyderabad,,https://rajeshsharma.in
+163,Dr. Deepa Brown,,General Physician,Phoenix,3035794228,https://deepabrown.com
+164,Dr. John Sharma,,Pediatrician,Houston,8689375230,https://johnsharma.com
+165,Dr. Rajesh Sharma,,General Physician,New York,3834497437,https://rajeshsharma.com
+166,Dr. John Patel,UPMC/93522,Neurologist,Bangalore,,https://johnpatel.in
+167,Dr. Alice Singh,UPMC/69768,Dermatologist,Chennai,,https://alicesingh.in
+168,Dr. Emily Reddy,KA/29799,Neurologist,Delhi,,https://emilyreddy.in
+169,Dr. Michael Johnson,,Cardiologist,New York,6028824971,https://michaeljohnson.com
+170,Dr. Robert Johnson,,General Physician,Phoenix,9345099564,https://robertjohnson.com
+171,Dr. John Patel,,Neurologist,Phoenix,2375520314,https://johnpatel.com
+172,Dr. Emily Brown,MHMC/60877,Dermatologist,Mumbai,,https://emilybrown.in
+173,Dr. Priya Brown,UPMC/85008,Dermatologist,Mumbai,,https://priyabrown.in
+174,Dr. Alice Smith,,Orthopedic Surgeon,Los Angeles,2307673404,https://alicesmith.com
+175,Dr. Robert Reddy,UPMC/70179,Dermatologist,Bangalore,,https://robertreddy.in
+176,Dr. Alice Kumar,KA/97188,Pediatrician,Hyderabad,,https://alicekumar.in
+177,Dr. Deepa Brown,DLMC/18779,Pediatrician,Hyderabad,,https://deepabrown.in
+178,Dr. Rajesh Smith,UPMC/24042,Neurologist,Hyderabad,,https://rajeshsmith.in
+179,Dr. John Smith,,General Physician,Phoenix,9748128413,https://johnsmith.com
+180,Dr. Amit Williams,INVALID-ID,Cardiologist,Chennai,,https://amitwilliams.in
+181,Dr. Emily Johnson,INVALID-ID,Dermatologist,Bangalore,,https://emilyjohnson.in
+182,Dr. John Brown,UPMC/24479,Neurologist,Bangalore,,https://johnbrown.in
+183,Dr. Amit Johnson,,Cardiologist,Chicago,1753765063,https://amitjohnson.com
+184,Dr. John Singh,UPMC/41987,Neurologist,Bangalore,,https://johnsingh.in
+185,Dr. Rajesh Williams,,Cardiologist,Houston,9258996157,https://rajeshwilliams.com
+186,Dr. John Patel,,Dermatologist,Chicago,9068614847,https://johnpatel.com
+187,Dr. Robert Kumar,KA/43173,Cardiologist,Mumbai,,https://robertkumar.in
+188,Dr. John Johnson,UPMC/70695,Dermatologist,Chennai,,https://johnjohnson.in
+189,Dr. John Brown,,Orthopedic Surgeon,Los Angeles,5031935771,https://johnbrown.com
+190,Dr. Michael Johnson,,General Physician,Phoenix,123,https://michaeljohnson.com
+191,Dr. Deepa Singh,MHMC/78735,Cardiologist,Bangalore,,https://deepasingh.in
+192,Dr. John Sharma,,Pediatrician,Houston,9867324484,https://johnsharma.com
+193,Dr. John Smith,,Neurologist,Phoenix,123,https://johnsmith.com
+194,Dr. Suresh Singh,,Cardiologist,Phoenix,8510136707,https://sureshsingh.com
+195,Dr. Deepa Smith,TNMC/35424,Orthopedic Surgeon,Hyderabad,,https://deepasmith.in
+196,Dr. Robert Sharma,INVALID-ID,Pediatrician,Hyderabad,,https://robertsharma.in
+197,Dr. Alice Jones,,Dermatologist,Chicago,1376682507,https://alicejones.com
+198,Dr. Amit Singh,UPMC/32629,Dermatologist,Bangalore,,https://amitsingh.in
+199,Dr. Deepa Singh,MHMC/28270,Orthopedic Surgeon,Hyderabad,,https://deepasingh.in
+200,Dr. Deepa Williams,KA/12963,Cardiologist,Hyderabad,,https://deepawilliams.in
+201,Dr. Deepa Jones,INVALID-ID,General Physician,Hyderabad,,https://deepajones.in
+202,Dr. Rajesh Jones,,Pediatrician,Chicago,1792874565,https://rajeshjones.com
+203,Dr. Michael Patel,MHMC/80857,Orthopedic Surgeon,Delhi,,https://michaelpatel.in
+204,Dr. Alice Williams,,Pediatrician,Los Angeles,4459894900,https://alicewilliams.com
+205,Dr. Emily Sharma,,Cardiologist,Chicago,3793435821,https://emilysharma.com
+206,Dr. Robert Sharma,TNMC/43206,Cardiologist,Delhi,,https://robertsharma.in
+207,Dr. Robert Kumar,KA/96482,Neurologist,Delhi,,https://robertkumar.in
+208,Dr. Amit Reddy,TNMC/73264,Neurologist,Bangalore,,https://amitreddy.in
+209,Dr. Emily Kumar,,Pediatrician,Los Angeles,2724205329,https://emilykumar.com
+210,Dr. Emily Singh,TNMC/40975,Neurologist,Chennai,,https://emilysingh.in
+211,Dr. Alice Singh,TNMC/89685,Dermatologist,Chennai,,https://alicesingh.in
+212,Dr. Robert Johnson,TNMC/56557,Neurologist,Hyderabad,,https://robertjohnson.in
+213,Dr. Alice Williams,MHMC/56203,General Physician,Delhi,,https://alicewilliams.in
+214,Dr. John Brown,,Dermatologist,Phoenix,6035412694,https://johnbrown.com
+215,Dr. Deepa Kumar,KA/53625,Cardiologist,Bangalore,,https://deepakumar.in
+216,Dr. Amit Kumar,UPMC/35489,Neurologist,Chennai,,https://amitkumar.in
+217,Dr. Michael Jones,,Cardiologist,Phoenix,6473393119,https://michaeljones.com
+218,Dr. Suresh Brown,MHMC/74880,Orthopedic Surgeon,Chennai,,https://sureshbrown.in
+219,Dr. Robert Singh,DLMC/86073,General Physician,Hyderabad,,https://robertsingh.in
+220,Dr. Suresh Smith,KA/73780,Cardiologist,Mumbai,,https://sureshsmith.in
+221,Dr. Emily Patel,DLMC/34354,Neurologist,Mumbai,,https://emilypatel.in
+222,Dr. Emily Sharma,,Pediatrician,Houston,1174162821,https://emilysharma.com
+223,Dr. Amit Singh,KA/87733,Orthopedic Surgeon,Chennai,,https://amitsingh.in
+224,Dr. Suresh Smith,TNMC/30522,General Physician,Mumbai,,https://sureshsmith.in
+225,Dr. Michael Patel,UPMC/93449,Cardiologist,Delhi,,https://michaelpatel.in
+226,Dr. Suresh Sharma,MHMC/20589,Neurologist,Hyderabad,,https://sureshsharma.in
+227,Dr. John Kumar,MHMC/98896,Cardiologist,Bangalore,,https://johnkumar.in
+228,Dr. Amit Williams,,Dermatologist,Phoenix,3878452656,https://amitwilliams.com
+229,Dr. John Jones,DLMC/13929,Orthopedic Surgeon,Delhi,,https://johnjones.in
+230,Dr. Suresh Brown,,Orthopedic Surgeon,Los Angeles,2669016783,https://sureshbrown.com
+231,Dr. Alice Singh,KA/43118,General Physician,Delhi,,https://alicesingh.in
+232,Dr. Priya Jones,UPMC/73589,Cardiologist,Hyderabad,,https://priyajones.in
+233,Dr. Amit Reddy,UPMC/10418,Dermatologist,Bangalore,,https://amitreddy.in
+234,Dr. Michael Brown,TNMC/13964,Cardiologist,Mumbai,,https://michaelbrown.in
+235,Dr. Deepa Patel,,Dermatologist,Chicago,6616796461,https://deepapatel.com
+236,Dr. Deepa Kumar,KA/53747,Neurologist,Bangalore,,https://deepakumar.in
+237,Dr. Robert Reddy,UPMC/84299,Orthopedic Surgeon,Hyderabad,,https://robertreddy.in
+238,Dr. Alice Patel,,Dermatologist,Los Angeles,2959632073,https://alicepatel.com
+239,Dr. Michael Williams,TNMC/24469,Dermatologist,Chennai,,https://michaelwilliams.in
+240,Dr. Rajesh Kumar,MHMC/72590,Pediatrician,Bangalore,,https://rajeshkumar.in
+241,Dr. Michael Reddy,,Pediatrician,Chicago,2896394942,https://michaelreddy.com
+242,Dr. Michael Williams,,Neurologist,Houston,2690106962,https://michaelwilliams.com
+243,Dr. Michael Johnson,MHMC/23463,Orthopedic Surgeon,Mumbai,,https://michaeljohnson.in
+244,Dr. Robert Singh,,Orthopedic Surgeon,Phoenix,9332097205,https://robertsingh.com
+245,Dr. Deepa Brown,DLMC/89172,Dermatologist,Hyderabad,,https://deepabrown.in
+246,Dr. Suresh Johnson,DLMC/90544,Dermatologist,Delhi,,https://sureshjohnson.in
+247,Dr. Rajesh Brown,DLMC/11374,Orthopedic Surgeon,Chennai,,https://rajeshbrown.in
+248,Dr. Amit Reddy,,Dermatologist,Chicago,4988493796,https://amitreddy.com
+249,Dr. Amit Jones,,Neurologist,Phoenix,7457275834,https://amitjones.com
+250,Dr. Michael Smith,TNMC/13472,Pediatrician,Chennai,,https://michaelsmith.in
+251,Dr. Suresh Reddy,,Cardiologist,Los Angeles,4217317128,https://sureshreddy.com
+252,Dr. Michael Brown,MHMC/60370,Cardiologist,Bangalore,,https://michaelbrown.in
+253,Dr. John Brown,KA/41811,Dermatologist,Mumbai,,https://johnbrown.in
+254,Dr. Rajesh Reddy,DLMC/74502,General Physician,Mumbai,,https://rajeshreddy.in
+255,Dr. Amit Williams,,Dermatologist,Chicago,5895320642,https://amitwilliams.com
+256,Dr. John Brown,INVALID-ID,Dermatologist,Chennai,,https://johnbrown.in
+257,Dr. Amit Williams,UPMC/23217,Orthopedic Surgeon,Chennai,,https://amitwilliams.in
+258,Dr. John Singh,KA/27836,Dermatologist,Hyderabad,,https://johnsingh.in
+259,Dr. Priya Jones,,Neurologist,Chicago,123,https://priyajones.com
+260,Dr. Michael Sharma,DLMC/63185,Pediatrician,Bangalore,,https://michaelsharma.in
+261,Dr. Rajesh Reddy,TNMC/69728,Orthopedic Surgeon,Bangalore,,https://rajeshreddy.in
+262,Dr. Priya Williams,INVALID-ID,Cardiologist,Bangalore,,https://priyawilliams.in
+263,Dr. Suresh Jones,,Pediatrician,Los Angeles,2683354190,https://sureshjones.com
+264,Dr. Alice Reddy,INVALID-ID,Orthopedic Surgeon,Delhi,,https://alicereddy.in
+265,Dr. Robert Reddy,,Neurologist,New York,7332541587,https://robertreddy.com
+266,Dr. Priya Sharma,DLMC/51681,General Physician,Hyderabad,,https://priyasharma.in
+267,Dr. Suresh Smith,INVALID-ID,Neurologist,Delhi,,https://sureshsmith.in
+268,Dr. Rajesh Singh,,Orthopedic Surgeon,Phoenix,2759994572,https://rajeshsingh.com
+269,Dr. Emily Smith,MHMC/58022,Neurologist,Chennai,,https://emilysmith.in
+270,Dr. Amit Jones,MHMC/76577,Dermatologist,Chennai,,https://amitjones.in
+271,Dr. Priya Reddy,INVALID-ID,Cardiologist,Hyderabad,,https://priyareddy.in
+272,Dr. Rajesh Williams,KA/98463,Pediatrician,Hyderabad,,https://rajeshwilliams.in
+273,Dr. John Johnson,,Cardiologist,New York,3106936249,https://johnjohnson.com
+274,Dr. Emily Singh,MHMC/57540,Cardiologist,Delhi,,https://emilysingh.in
+275,Dr. Michael Jones,,General Physician,Houston,123,https://michaeljones.com
+276,Dr. Amit Sharma,UPMC/28836,Dermatologist,Chennai,,https://amitsharma.in
+277,Dr. Robert Kumar,MHMC/11218,Cardiologist,Chennai,,https://robertkumar.in
+278,Dr. Michael Johnson,,Neurologist,New York,1867236742,https://michaeljohnson.com
+279,Dr. Rajesh Johnson,KA/64061,Pediatrician,Mumbai,,https://rajeshjohnson.in
+280,Dr. Alice Williams,MHMC/14021,Cardiologist,Chennai,,https://alicewilliams.in
+281,Dr. Amit Brown,DLMC/48751,Cardiologist,Mumbai,,https://amitbrown.in
+282,Dr. Rajesh Reddy,,Neurologist,Phoenix,5676943809,https://rajeshreddy.com
+283,Dr. Amit Brown,INVALID-ID,Cardiologist,Hyderabad,,https://amitbrown.in
+284,Dr. Michael Smith,,Dermatologist,Chicago,8083799479,https://michaelsmith.com
+285,Dr. John Brown,,Dermatologist,Phoenix,4325258012,https://johnbrown.com
+286,Dr. John Singh,,Dermatologist,Chicago,9047675250,https://johnsingh.com
+287,Dr. John Jones,TNMC/97685,Pediatrician,Mumbai,,https://johnjones.in
+288,Dr. Alice Smith,INVALID-ID,Neurologist,Mumbai,,https://alicesmith.in
+289,Dr. Robert Singh,,Cardiologist,Los Angeles,7255902455,https://robertsingh.com
+290,Dr. Deepa Patel,TNMC/32298,General Physician,Delhi,,https://deepapatel.in
+291,Dr. Rajesh Kumar,TNMC/36403,Pediatrician,Delhi,,https://rajeshkumar.in
+292,Dr. John Jones,,Neurologist,Los Angeles,2172085910,https://johnjones.com
+293,Dr. Emily Johnson,UPMC/86507,Pediatrician,Mumbai,,https://emilyjohnson.in
+294,Dr. John Singh,TNMC/56946,General Physician,Mumbai,,https://johnsingh.in
+295,Dr. Alice Brown,INVALID-ID,Cardiologist,Chennai,,https://alicebrown.in
+296,Dr. John Reddy,,Dermatologist,Chicago,3940585706,https://johnreddy.com
+297,Dr. Rajesh Smith,,Pediatrician,Phoenix,1884266851,https://rajeshsmith.com
+298,Dr. Michael Reddy,,Neurologist,Los Angeles,1991254835,https://michaelreddy.com
+299,Dr. John Reddy,INVALID-ID,Orthopedic Surgeon,Hyderabad,,https://johnreddy.in
+300,Dr. Priya Sharma,DLMC/56207,Pediatrician,Delhi,,https://priyasharma.in
